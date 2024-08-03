@@ -13,7 +13,9 @@ The dataset contains information about restaurants, including columns such as:
 - has_online_delivery: Indicates if the restaurant offers online delivery.
 - has_table_booking: Indicates if the restaurant offers table booking.
 
-➡ 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞: To explore and analyze key metrics such as price ranges, delivery options, and customer ratings across a diverse range of restaurants.
+➡ 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞: 
+
+-> To explore and analyze key metrics such as price ranges, delivery options, and customer ratings across a diverse range of restaurants.
 
 ➡ 𝐒𝐭𝐞𝐩𝐬 𝐈 𝐅𝐨𝐥𝐥𝐨𝐰𝐞𝐝:
 
